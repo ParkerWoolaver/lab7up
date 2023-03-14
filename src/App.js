@@ -1,7 +1,5 @@
 import React, { useState } from "react";
 import ReactDOM from "react-dom";
-import { Link, Route } from "react-router-dom";
-import Dashboard from "./dashboard";
 
 function App() {
 
